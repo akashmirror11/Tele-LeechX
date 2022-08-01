@@ -139,8 +139,8 @@ async def start(client, message):
     """/start command"""
     buttons = [
             [
-                InlineKeyboardButton('🚦 Bot Stats 🚦', url='https://t.me/FXTorrentz/28'),
-                InlineKeyboardButton('🛃 FX Group 🛃', url='https://t.me/+BgIhdNizM61jOGNl'),
+                InlineKeyboardButton('🚦 OWNER 🚦', url='https://t.me/MM_Films'),
+                InlineKeyboardButton('🛃 LEECH GROUP 🛃', url='https://t.me/HELL_GaM'),
             ]
             ]
     reply_markup=InlineKeyboardMarkup(buttons)
